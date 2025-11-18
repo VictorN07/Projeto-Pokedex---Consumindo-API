@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xvict\\OneDrive\\Área de Trabalho\\C#\\Pokedex\\Pokedex\\Pokedex.csproj": {}
+    "C:\\Users\\xvict\\Desktop\\Projeto_Pokedex\\Projeto-Pokedex---Consumindo-API\\Pokedex\\Pokedex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xvict\\OneDrive\\Área de Trabalho\\C#\\Pokedex\\Pokedex\\Pokedex.csproj": {
+    "C:\\Users\\xvict\\Desktop\\Projeto_Pokedex\\Projeto-Pokedex---Consumindo-API\\Pokedex\\Pokedex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xvict\\OneDrive\\Área de Trabalho\\C#\\Pokedex\\Pokedex\\Pokedex.csproj",
+        "projectUniqueName": "C:\\Users\\xvict\\Desktop\\Projeto_Pokedex\\Projeto-Pokedex---Consumindo-API\\Pokedex\\Pokedex.csproj",
         "projectName": "Pokedex",
-        "projectPath": "C:\\Users\\xvict\\OneDrive\\Área de Trabalho\\C#\\Pokedex\\Pokedex\\Pokedex.csproj",
+        "projectPath": "C:\\Users\\xvict\\Desktop\\Projeto_Pokedex\\Projeto-Pokedex---Consumindo-API\\Pokedex\\Pokedex.csproj",
         "packagesPath": "C:\\Users\\xvict\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xvict\\OneDrive\\Área de Trabalho\\C#\\Pokedex\\Pokedex\\obj\\",
+        "outputPath": "C:\\Users\\xvict\\Desktop\\Projeto_Pokedex\\Projeto-Pokedex---Consumindo-API\\Pokedex\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

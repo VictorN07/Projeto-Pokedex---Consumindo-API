@@ -12,6 +12,7 @@ namespace Program {
             } catch (Exception ex) {
                 Console.WriteLine($"ouve um Erro: {ex.Message}");
             }
+            Console.WriteLine("Programa Finalizado");
         }
     }
 }

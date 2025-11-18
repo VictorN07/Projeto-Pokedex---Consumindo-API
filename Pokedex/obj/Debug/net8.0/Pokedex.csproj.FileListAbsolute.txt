@@ -12,3 +12,18 @@ C:\Users\xvict\OneDrive\Área de Trabalho\C#\Pokedex\Pokedex\obj\Debug\net8.0\re
 C:\Users\xvict\OneDrive\Área de Trabalho\C#\Pokedex\Pokedex\obj\Debug\net8.0\Pokedex.pdb
 C:\Users\xvict\OneDrive\Área de Trabalho\C#\Pokedex\Pokedex\obj\Debug\net8.0\Pokedex.genruntimeconfig.cache
 C:\Users\xvict\OneDrive\Área de Trabalho\C#\Pokedex\Pokedex\obj\Debug\net8.0\ref\Pokedex.dll
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\bin\Debug\net8.0\Pokedex.exe
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\bin\Debug\net8.0\Pokedex.deps.json
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\bin\Debug\net8.0\Pokedex.runtimeconfig.json
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\bin\Debug\net8.0\Pokedex.dll
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\bin\Debug\net8.0\Pokedex.pdb
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.AssemblyInfoInputs.cache
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.AssemblyInfo.cs
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.sourcelink.json
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.dll
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\refint\Pokedex.dll
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.pdb
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\Pokedex.genruntimeconfig.cache
+C:\Users\xvict\Desktop\Projeto_Pokedex\Projeto-Pokedex---Consumindo-API\Pokedex\obj\Debug\net8.0\ref\Pokedex.dll
